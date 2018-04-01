@@ -9,6 +9,6 @@
     <Import_RootNamespace>SharedProject1</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="$(MSBuildThisFileDirectory)Body\" />
+    <Content Include="$(MSBuildThisFileDirectory)Body\body.html" />
   </ItemGroup>
 </Project>
