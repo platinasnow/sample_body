@@ -10,5 +10,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="$(MSBuildThisFileDirectory)Body\body.html" />
+    <Content Include="$(MSBuildThisFileDirectory)Leg\LeftLeg.html" />
+    <Content Include="$(MSBuildThisFileDirectory)Leg\RightLeg.html" />
   </ItemGroup>
 </Project>
