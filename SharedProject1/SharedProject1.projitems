@@ -10,6 +10,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="$(MSBuildThisFileDirectory)Arm\LeftArm.html" />
+    <Content Include="$(MSBuildThisFileDirectory)Arm\RightArm.html" />
     <Content Include="$(MSBuildThisFileDirectory)Body\body.html" />
     <Content Include="$(MSBuildThisFileDirectory)Leg\LeftLeg.html" />
     <Content Include="$(MSBuildThisFileDirectory)Leg\RightLeg.html" />
