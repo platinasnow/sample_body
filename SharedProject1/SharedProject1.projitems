@@ -9,6 +9,7 @@
     <Import_RootNamespace>SharedProject1</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Arm\leftHand.html" />
     <Content Include="$(MSBuildThisFileDirectory)Arm\LeftArm.html" />
     <Content Include="$(MSBuildThisFileDirectory)Arm\RightArm.html" />
     <Content Include="$(MSBuildThisFileDirectory)Body\body.html" />
